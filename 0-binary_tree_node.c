@@ -2,9 +2,9 @@
 /**
  * binary_tree_node - creates a new binary node
  * 
- * @param parent pointer to parent node
- * @param value vaule of the new node
- * @return binary_tree_t* 
+ * parent: pointer to parent node
+ * value: vaule of the new node
+ * Return: binary_tree_t* 
  */
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
